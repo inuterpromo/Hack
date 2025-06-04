@@ -1,0 +1,7 @@
+What would be total cost that would be incurred for a project that implements the following points in the solution for KYC, QC and Transaction network project:
+1. CompanyHouse, Dunn & Bradstreet and Orbis company data are used using their API's.
+2. 2 Gen AI agents are used wherein one agent is used for adverse media screening while the other agent is for transaction summary report for a company. 
+3. The solution is displayed using streamlit and AWS is used as a platform.
+4. The whole solution will utilise AWS as platform.
+5. The development of the project, code and also its deployment and pipelining of the data using AWS. 
+Can you estimate the same cost if i need to create this for one company. Based on it, this can then be extrapolated for n number of companies'
