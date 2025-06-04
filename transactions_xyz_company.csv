@@ -1,0 +1,61 @@
+3rd_party_company,Origin_country,Destination_country,Date,Amount,Receipt/Payment,Our_business_nature,3rd_party_business_nature,Sanctioned_country_flag,Risk
+Iota Logistics,Brazil,Brazil,12/15/2024,43708.61,Receipt,Software Development,Hardware Supply,No,Low
+Theta Services,France,Germany,9/4/2024,95564.29,Payment,Software Development,Hardware Supply,No,Low
+Theta Services,France,Brazil,10/9/2024,75879.45,Payment,Software Development,Hardware Supply,No,Low
+Delta Corp,Australia,United States,7/10/2024,63879.26,Receipt,Software Development,Software Integration,No,Low
+Gamma Solutions,China,United Kingdom,11/7/2024,24041.68,Payment,Software Development,Software Integration,No,Low
+Epsilon LLC,Germany,India,1/19/2024,24039.51,Receipt,Software Development,IT Consultancy,No,Low
+Theta Services,Australia,Australia,8/1/2024,15227.53,Payment,Software Development,Cloud Services,No,Low
+Gamma Solutions,China,United Kingdom,5/5/2024,87955.85,Receipt,Software Development,Software Integration,No,Low
+Gamma Solutions,United States,Brazil,9/21/2024,64100.35,Receipt,Software Development,Cloud Services,No,Low
+Theta Services,China,China,1/19/2024,73726.53,Payment,Software Development,IT Consultancy,No,Low
+Delta Corp,Brazil,China,3/7/2024,11852.6,Payment,Software Development,IT Consultancy,No,Low
+Delta Corp,Canada,India,9/10/2024,97291.89,Receipt,Software Development,Cloud Services,No,Low
+Theta Services,Brazil,India,4/26/2024,84919.84,Receipt,Software Development,Cloud Services,No,Low
+Theta Services,Canada,United States,3/31/2024,29110.52,Payment,Software Development,Software Integration,No,Low
+Delta Corp,Canada,Australia,1/3/2024,26364.25,Payment,Software Development,IT Consultancy,No,Low
+Iota Logistics,Brazil,Germany,10/31/2024,26506.41,Receipt,Software Development,IT Consultancy,No,Low
+Theta Services,China,Japan,4/2/2024,37381.8,Receipt,Software Development,IT Consultancy,No,Low
+Beta Industries,Japan,France,8/21/2024,57228.08,Receipt,Software Development,Cloud Services,No,Low
+Gamma Solutions,Brazil,China,1/24/2024,48875.05,Receipt,Software Development,Hardware Supply,No,Low
+Beta Industries,Canada,United States,6/15/2024,36210.62,Receipt,Software Development,Software Integration,No,Low
+Delta Corp,France,Japan,5/6/2024,65066.76,Payment,Software Development,Textiles,No,Medium
+Alpha Tech,Japan,Australia,9/4/2024,22554.45,Receipt,Software Development,Textiles,No,Medium
+Alpha Tech,United Kingdom,Germany,6/8/2024,36293.02,Payment,Software Development,Agriculture,No,Medium
+Alpha Tech,United Kingdom,Germany,6/1/2024,42972.57,Payment,Software Development,Pharmaceuticals,No,Medium
+Gamma Solutions,Canada,Canada,2/18/2024,51046.3,Receipt,Software Development,Textiles,No,Medium
+Iota Logistics,China,China,7/25/2024,80665.84,Payment,Software Development,Pharmaceuticals,No,Medium
+Epsilon LLC,China,China,1/1/2024,27970.64,Payment,Software Development,Construction,No,Medium
+Gamma Solutions,United States,China,5/2/2024,56281.1,Receipt,Software Development,Construction,No,Medium
+Theta Services,Japan,Japan,9/25/2024,63317.31,Receipt,Software Development,Agriculture,No,Medium
+Alpha Tech,United Kingdom,China,3/22/2024,14180.54,Receipt,Software Development,Agriculture,No,Medium
+Delta Corp,Canada,Brazil,9/29/2024,64679.04,Receipt,Software Development,Textiles,No,Medium
+Theta Services,United Kingdom,United Kingdom,9/8/2024,25347.17,Receipt,Software Development,Construction,No,Medium
+Zeta Trading,Germany,France,12/25/2024,15854.64,Receipt,Software Development,Pharmaceuticals,No,Medium
+Iota Logistics,United States,India,6/9/2024,95399.7,Payment,Software Development,Construction,No,Medium
+Gamma Solutions,Japan,China,7/5/2024,96906.88,Receipt,Software Development,Textiles,No,Medium
+Beta Industries,Australia,India,7/24/2024,82755.76,Payment,Software Development,Agriculture,No,Medium
+Theta Services,Australia,Brazil,7/5/2024,37415.24,Payment,Software Development,Pharmaceuticals,No,Medium
+Beta Industries,China,Canada,8/10/2024,18790.49,Receipt,Software Development,Textiles,No,Medium
+Epsilon LLC,Germany,Canada,5/7/2024,71580.97,Payment,Software Development,Pharmaceuticals,No,Medium
+Zeta Trading,Brazil,Australia,9/3/2024,49613.72,Payment,Software Development,Construction,No,Medium
+Zeta Trading,North Korea,Germany,2/12/2024,20983.44,Payment,Software Development,Pharmaceuticals,Yes,High
+Iota Logistics,United States,North Korea,1/27/2024,54565.92,Receipt,Software Development,Textiles,Yes,High
+Epsilon LLC,North Korea,North Korea,10/27/2024,13094.97,Payment,Software Development,IT Consultancy,Yes,High
+Gamma Solutions,North Korea,China,1/19/2024,91838.84,Receipt,Software Development,Textiles,Yes,High
+Theta Services,Syria,Germany,12/3/2024,33290.2,Receipt,Software Development,Software Integration,Yes,High
+Epsilon LLC,North Korea,India,3/26/2024,69627.01,Payment,Software Development,Software Integration,Yes,High
+Delta Corp,North Korea,United States,2/22/2024,38054,Receipt,Software Development,Cloud Services,Yes,High
+Iota Logistics,Syria,United Kingdom,3/7/2024,56806.12,Receipt,Software Development,Textiles,Yes,High
+Iota Logistics,United States,North Korea,9/22/2024,59203.93,Payment,Software Development,Cloud Services,Yes,High
+Epsilon LLC,North Korea,United States,7/11/2024,26636.9,Payment,Software Development,Cloud Services,Yes,High
+Zeta Trading,North Korea,United Kingdom,9/15/2024,97262.62,Payment,Software Development,Pharmaceuticals,Yes,High
+Gamma Solutions,Iran,India,9/19/2024,79761.95,Receipt,Software Development,Construction,Yes,High
+Alpha Tech,Iran,Germany,6/13/2024,94554.9,Payment,Software Development,Hardware Supply,Yes,High
+Theta Services,Iran,India,2/14/2024,90534.46,Payment,Software Development,Pharmaceuticals,Yes,High
+Delta Corp,North Korea,Brazil,3/16/2024,63811,Payment,Software Development,Cloud Services,Yes,High
+Epsilon LLC,Syria,United Kingdom,7/13/2024,92968.68,Receipt,Software Development,Agriculture,Yes,High
+Iota Logistics,North Korea,Australia,11/3/2024,17964.33,Receipt,Software Development,Software Integration,Yes,High
+Theta Services,Syria,Germany,3/21/2024,27638.46,Receipt,Software Development,Hardware Supply,Yes,High
+Epsilon LLC,Syria,Brazil,8/20/2024,14070.46,Receipt,Software Development,Construction,Yes,High
+Theta Services,Syria,China,2/17/2024,39279.73,Receipt,Software Development,Cloud Services,Yes,High
